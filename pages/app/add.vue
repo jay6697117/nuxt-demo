@@ -1,8 +1,6 @@
 <template>
   <div class="logo">
-    <h1>
-      app/add
-    </h1>
+    <h1>app/add</h1>
     <NuxtLogo />
   </div>
 </template>

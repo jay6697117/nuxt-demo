@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'NuxtLogo'
+  name: 'NuxtLogo',
 }
 </script>
 
